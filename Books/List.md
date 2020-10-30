@@ -1,0 +1,3 @@
+- Nilsson, N. J. (2009). The quest for artificial intelligence. Cambridge University Press.
+- Churchland, P. M. (2012). Plato's camera: How the physical brain captures a landscape of abstract universals. MIT press.
+- 
